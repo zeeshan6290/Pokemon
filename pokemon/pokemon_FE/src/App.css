@@ -1,0 +1,13 @@
+.wrap{
+  margin: 20px 10px;
+  display: flex;
+}
+.search {
+  width: 100%;
+}
+
+.searchTerm {
+  width: 100%;
+  padding: 5px;
+  color: #000000;
+}

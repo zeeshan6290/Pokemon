@@ -1,0 +1,21 @@
+Name,Base Experience,Height,Weight,Image URL
+bulbasaur,64,7,69,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
+ivysaur,142,10,130,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png
+venusaur,263,20,1000,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png
+charmander,62,6,85,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png
+charmeleon,142,11,190,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png
+charizard,267,17,905,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png
+squirtle,63,5,90,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png
+wartortle,142,10,225,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png
+blastoise,265,16,855,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png
+caterpie,39,3,29,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png
+metapod,72,7,99,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png
+butterfree,198,11,320,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png
+weedle,39,3,32,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png
+kakuna,72,6,100,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png
+beedrill,178,10,295,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png
+pidgey,50,3,18,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png
+pidgeotto,122,11,300,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png
+pidgeot,216,15,395,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png
+rattata,51,3,35,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png
+raticate,145,7,185,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png

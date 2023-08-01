@@ -6,6 +6,7 @@ It is a mini project. It is a simple project to take CSV data and put it into a 
 - Run flask project on 8000 port
 
 
+--> Postman Collection <--
 
 {
 	"info": {
